@@ -95,7 +95,7 @@ export async function POST(request: Request) {
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
           <div style="text-align: center; margin-bottom: 30px;">
             <h1 style="color: #4AB9B8; font-size: 28px; margin-bottom: 10px;">Welcome to RelationshipOS! 💕</h1>
-            <p style="color: #64748B; font-size: 16px;">You're now in the exclusive beta program</p>
+            <p style="color: #64748B; font-size: 16px;">You're now in the exclusive beta program waitlist</p>
           </div>
 
           <div style="background: linear-gradient(135deg, #F8FAFC 0%, #F1F5F9 100%); padding: 25px; border-radius: 12px; margin-bottom: 25px;">
@@ -103,7 +103,7 @@ export async function POST(request: Request) {
             <ul style="color: #64748B; line-height: 1.6; padding-left: 20px;">
               <li>You'll get exclusive founder pricing (50% off for life)</li>
               <li>Direct access to our team for feedback and features</li>
-              <li>First access when we launch in March 2024</li>
+              <li>First access when we launch in September 2025</li>
               <li>Invitation to our private founder community</li>
             </ul>
           </div>
@@ -122,7 +122,7 @@ export async function POST(request: Request) {
               Questions? Just reply to this email!
             </p>
             <p style="color: #94A3B8; font-size: 12px;">
-              RelationshipOS • Building the future of love, one connection at a time
+              RelationshipOS • Building the future of connection, one insight at a time
             </p>
           </div>
         </div>
